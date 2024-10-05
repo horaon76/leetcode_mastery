@@ -1,0 +1,7 @@
+[book]
+authors = ["Harish Oraon"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Leetcode Mastery"
+description = "All in one prep guide for tech interviews"
